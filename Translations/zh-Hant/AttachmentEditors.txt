@@ -5,7 +5,7 @@
 默認配置
 預設
 工作站- <color=#c00>離線中</color>
-<color=#ccc>SITE-02槍械配件自定義點</color> -待機模式\n<size=39>觸碰荧幕以啟動，<color=#ccc>僅限已授權人員。</ color></size>
+<color=#ccc>SITE-02槍械配件自定義點</color> -待機模式\n<size=39>觸碰熒幕以啟動，<color=#ccc>僅限已授權人員。</ color></size>
 您好，使用者！
 工作站正在啟動中
 工作站- <color=#0c0>已就緒</color>
